@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Halo, Saya Gema Ramadhan!
 
-<!--
-**gema72918-pixel/gema72918-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff)
 
-Here are some ideas to get you started:
+## 🧑‍🎓 Tentang Saya
+Saya **Gema Ramadhan**, seorang pelajar dari:
+- 🏫 SMKN 1 Cianjur  
+- 🎓 Kelas X PPLG 3  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya sedang belajar dan mengembangkan kemampuan di bidang:
+- 💻 Pemrograman Web (HTML, CSS, JavaScript)
+- ⚙️ Pengembangan aplikasi dasar
+- 📚 Algoritma dan logika pemrograman
+
+---
+
+## 🚀 Skill yang Sedang Dipelajari
+```text
+HTML        ████████░░ 80%
+CSS         ██████░░░░ 60%
+JavaScript  █████░░░░░ 50%
+Node.js     ███░░░░░░░ 30%
+Git/GitHub  ██████░░░░ 60%
