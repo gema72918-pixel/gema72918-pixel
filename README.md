@@ -10,8 +10,11 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img src = "video-github.mp4"><img>
+<div align="center">
+  <video width="400" controls>
+    <source src="video-github.mp4" type="video/mp4">
+    Browser kamu tidak mendukung video.
+  </video>
 </div>
 
 ###
