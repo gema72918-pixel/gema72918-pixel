@@ -1,23 +1,45 @@
-# 👋 Halo, Saya Gema Ramadhan!
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff)
+###
 
-## 🧑‍🎓 Tentang Saya
-Saya **Gema Ramadhan**, seorang pelajar dari:
-- 🏫 SMKN 1 Cianjur  
-- 🎓 Kelas X PPLG 3  
+<br clear="both">
 
-Saya sedang belajar dan mengembangkan kemampuan di bidang:
-- 💻 Pemrograman Web (HTML, CSS, JavaScript)
-- ⚙️ Pengembangan aplikasi dasar
-- 📚 Algoritma dan logika pemrograman
+<h1 data-importer="text" align="center">gema72918-pixel</h1>
 
----
+###
 
-## 🚀 Skill yang Sedang Dipelajari
-```text
-HTML        ████████░░ 80%
-CSS         ██████░░░░ 60%
-JavaScript  █████░░░░░ 50%
-Node.js     ███░░░░░░░ 30%
-Git/GitHub  ██████░░░░ 60%
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://s3.ezgif.com/tmp/ezgif-3bef67a72a954cd5.gif"  />
+</div>
+
+###
+
+<h4 data-importer="text" align="center">My Skills</h4>
+
+###
+
+<br clear="both">
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/gema72918-pixel/gema72918-pixel/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
+
+###
